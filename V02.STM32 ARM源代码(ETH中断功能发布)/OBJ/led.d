@@ -1,0 +1,10 @@
+..\obj\led.o: led.c
+..\obj\led.o: led.h
+..\obj\led.o: ..\SYSTEM\sys\sys.h
+..\obj\led.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\led.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+..\obj\led.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\led.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\led.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\led.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+..\obj\led.o: ..\SYSTEM\sys\system_stm32f4xx.h

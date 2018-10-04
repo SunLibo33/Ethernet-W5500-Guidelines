@@ -1,0 +1,12 @@
+..\obj\exti.o: exti.c
+..\obj\exti.o: exti.h
+..\obj\exti.o: ..\SYSTEM\sys\sys.h
+..\obj\exti.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\exti.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+..\obj\exti.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\exti.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\exti.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\exti.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+..\obj\exti.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\exti.o: ..\SYSTEM\delay\delay.h
+..\obj\exti.o: led.h

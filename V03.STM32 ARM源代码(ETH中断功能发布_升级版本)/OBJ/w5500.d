@@ -1,0 +1,15 @@
+..\obj\w5500.o: W5500.c
+..\obj\w5500.o: W5500.h
+..\obj\w5500.o: W5500.h
+..\obj\w5500.o: ..\SYSTEM\sys\sys.h
+..\obj\w5500.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\w5500.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+..\obj\w5500.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\w5500.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\w5500.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\w5500.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+..\obj\w5500.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\w5500.o: ..\SYSTEM\delay\delay.h
+..\obj\w5500.o: ..\SYSTEM\usart\usart.h
+..\obj\w5500.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\w5500.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h

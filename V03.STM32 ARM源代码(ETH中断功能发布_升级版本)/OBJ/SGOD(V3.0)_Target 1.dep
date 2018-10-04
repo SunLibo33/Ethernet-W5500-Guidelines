@@ -1,0 +1,2 @@
+Dependencies for Project 'SGOD(V3.0)', Target 'Target 1': (DO NOT MODIFY !)
+F (.\USER\startup_stm32f40_41xxx.s)(0x542E6B02)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx --list ".\startup_stm32f40_41xxx.lst" --xref -o "startup_stm32f40_41xxx.o" --depend "startup_stm32f40_41xxx.d")

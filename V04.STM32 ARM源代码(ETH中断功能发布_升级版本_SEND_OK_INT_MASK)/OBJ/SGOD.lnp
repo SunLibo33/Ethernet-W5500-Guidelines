@@ -1,0 +1,11 @@
+--cpu Cortex-M4.fp
+"..\obj\startup_stm32f40_41xxx.o"
+"..\obj\main.o"
+"..\obj\delay.o"
+"..\obj\sys.o"
+"..\obj\usart.o"
+"..\obj\w5500.o"
+--strict --scatter "..\OBJ\SGOD.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\OBJ\SGOD.map" -o ..\OBJ\SGOD.hex
